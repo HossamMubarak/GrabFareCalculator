@@ -17,3 +17,12 @@ The program estimates a Grab ride fare based on:
 - Service type selection
 - Promo code discount
 - Final receipt display
+
+## Testing
+
+The application was tested using:
+
+- Normal hours
+- Peak hours
+- Promo code
+- Invalid location
